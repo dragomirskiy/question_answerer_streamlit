@@ -5,6 +5,7 @@ import streamlit as st
 # Создаем и возвращаем пайплайн для поиска ответа на вопрос в указанном тексте.
 def get_pipeline():
     qa = pipeline('question-answering')
+    # Функция возвращает созданный пайплайн.
     return qa
 
 
