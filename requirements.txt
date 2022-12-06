@@ -1,0 +1,6 @@
+transformers
+streamlit
+fastapi
+pydantic
+uvicorn
+tensorflow
